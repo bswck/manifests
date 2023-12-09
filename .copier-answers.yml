@@ -8,7 +8,7 @@ github_username: bswck
 license_name: MIT
 org_full_name: Bartosz Sławecki
 package_name: manifests
-project_description: Generate code from JSON manifests.
+project_description: Generate code from TOML manifests.
 publish_on_pypi: true
 pypi_project_description: Generate code from JSON manifests.
 pypi_project_name: manifests

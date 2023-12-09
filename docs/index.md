@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/github/license/bswck/manifests.svg?label=License)](https://github.com/bswck/manifests/blob/HEAD/LICENSE)
 [![Pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 
-Generate code from JSON manifests.
+Generate code from TOML manifests.
 
 # Installation
 If you want to…
